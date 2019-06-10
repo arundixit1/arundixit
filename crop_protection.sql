@@ -1,2 +1,2 @@
 select * from emp
-where emp_id = 100;
+where emp_id = 500;
